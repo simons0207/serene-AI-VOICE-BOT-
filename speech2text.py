@@ -13,7 +13,7 @@ from deepgram import (
 def speech2text(audio_file):
     try:
         # STEP 1 Create a Deepgram client using the API key
-        deepgram = DeepgramClient("79c26e7a4629dd68ee5d7771cbe1c6fab368a21a ")
+        deepgram = DeepgramClient("########")
 
         with open(audio_file, "rb") as file:
             buffer_data = file.read()
