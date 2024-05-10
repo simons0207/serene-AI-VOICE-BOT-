@@ -13,7 +13,7 @@ def text2speech(text):
     try:
         # STEP 1: Create a Deepgram client using the API key from environment variables
         SPEAK_OPTIONS = {"text": text}
-        deepgram = DeepgramClient("79c26e7a4629dd68ee5d7771cbe1c6fab368a21a")
+        deepgram = DeepgramClient("##############")
 
         # STEP 2: Configure the options (such as model choice, audio configuration, etc.)
         options = SpeakOptions(
