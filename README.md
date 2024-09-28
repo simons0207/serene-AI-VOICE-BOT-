@@ -9,7 +9,7 @@
  "Serene is an AI based voice bot which is capable of being with you. As an emotional companion Serene  will be with you in the needful situations, where your thoughts could not be shared or be difficult to express."
 ###### Important Disclaimer:
 
-This kit is for informational purposes only and should not be used for sole diagnosis. Always consult with a qualified medical professional for diagnosis and treatment.
+This kit is for informational purposes only.
 ## Say Hii to SERENE 
 ![serene_hi](https://github.com/user-attachments/assets/e00d4d37-f764-4abc-a03e-4e43981b7a3d)
 
